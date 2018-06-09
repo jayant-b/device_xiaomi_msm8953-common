@@ -1,3 +1,8 @@
+# TEMP
+vendor/lib/hw/audio.primary.msm8953.so:vendor/lib/hw/audio.primary.msm8953.so
+vendor/lib64/hw/audio.primary.msm8953.so:vendor/lib64/hw/audio.primary.msm8953.so
+vendor/lib/libtinycompress.so
+
 # ADSP
 vendor/bin/adsprpcd
 vendor/lib/libadsprpc.so
